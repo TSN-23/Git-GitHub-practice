@@ -1,0 +1,1 @@
+print("Using Logistic Regression model for prediction.")
